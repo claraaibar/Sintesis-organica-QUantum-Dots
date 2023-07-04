@@ -1,6 +1,5 @@
 # Sintesis orgánica de Quantum Dots de nitruro de carbono y sus aplicaciones en la Ingeniería Biomédica.
 
-Las temáticas técnicas abordadas en el proyecto incluyen la síntesis bottom-up de Quantum Dots orgánicos mediante un proceso hidrotérmico, la caracterización de propiedades ópticas y morfológicas de los nanomateriales, el uso de técnicas como la espectroscopía UV-visible y la microscopía de fuerza atómica (AFM), y la aplicación de los Quantum Dots en sensores biomédicos y visualización de células.
 ### **Descripción del proyecto:**
   - Temática: 🔬🧬 Nanotecnología, Quantum Dots orgánicos, síntesis sostenible de nanomateriales, caracterización de nanomateriales, microscopía de fuerza atómica (AFM), espectroscopía UV-visible, Ingeniería Biomédica.
 
