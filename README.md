@@ -10,9 +10,9 @@ Las temáticas técnicas abordadas en el proyecto incluyen la síntesis bottom-u
 
 ### Características del Proyecto:
 
-- **Síntesis ogánica:** Obtención de Quantum Dots orgánicos de nitruro de carbono por proceso hidrotérmico a partir de la urea, un compuesto altamente biocompatible.
+- **Síntesis ogánica:** Obtención de Quantum Dots orgánicos de nitruro de carbono a partir de un proceso hidrotérmico a partir de la urea, un compuesto altamente biocompatible.
 
--  **Caracterización óptica:** EAnálisis de las propiedades ópticas y espectroscopía UV-visible de los Quantum Dots sintetizados.
+-  **Caracterización óptica:** Análisis de las propiedades ópticas y espectroscopía UV-visible de los Quantum Dots sintetizados.
   
 - **Caracterización mnorfológica:** Estudio de la forma y tamaño de los Quantum Dots mediante microscopía de fuerza atómica (AFM) en modo topográfico dinámico.
   
